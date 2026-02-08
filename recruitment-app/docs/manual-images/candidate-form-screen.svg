@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#eef3fb"/>
+  <rect x="80" y="60" width="1120" height="600" rx="16" fill="#ffffff" stroke="#d7dce7"/>
+  <text x="120" y="130" font-family="sans-serif" font-size="32" fill="#17345f" font-weight="700">候補者登録/編集画面（スクリーンショット貼付用）</text>
+  <rect x="120" y="170" width="1040" height="430" rx="10" fill="#f8faff" stroke="#d7dce7"/>
+  <rect x="150" y="210" width="300" height="36" rx="8" fill="#fff" stroke="#c4cad6"/>
+  <rect x="470" y="210" width="300" height="36" rx="8" fill="#fff" stroke="#c4cad6"/>
+  <rect x="790" y="210" width="300" height="36" rx="8" fill="#fff" stroke="#c4cad6"/>
+  <rect x="150" y="270" width="940" height="140" rx="8" fill="#fff" stroke="#c4cad6"/>
+  <rect x="150" y="430" width="940" height="140" rx="8" fill="#fff" stroke="#c4cad6"/>
+  <rect x="120" y="610" width="160" height="36" rx="8" fill="#dce9ff" stroke="#9db9ef"/>
+  <rect x="292" y="610" width="160" height="36" rx="8" fill="#f3f5f8" stroke="#d7dce7"/>
+  <text x="590" y="650" font-family="sans-serif" font-size="22" fill="#445">ここに実画面キャプチャを差し替えてください</text>
+</svg>
