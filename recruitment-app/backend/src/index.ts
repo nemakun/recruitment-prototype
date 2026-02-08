@@ -456,7 +456,10 @@ const candidates: CandidateRecord[] = (() => {
   return rows
 })()
 
-function normalizeMetricFilter(raw: Partial<MetricFilter>, fiscalYearStartMonth: FiscalYearStartMonth): MetricFilter {
+function normalizeMetricFilter(
+  raw: { month?: number; quarter?: number; half?: number; fiscalYear?: number },
+  fiscalYearStartMonth: FiscalYearStartMonth
+): MetricFilter {
   const now = new Date()
   const currentFiscalYear = getCurrentFiscalYearStartYear(now, fiscalYearStartMonth)
   const currentQuarter = getCurrentQuarter(now, fiscalYearStartMonth)
